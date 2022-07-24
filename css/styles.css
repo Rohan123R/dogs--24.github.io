@@ -1,0 +1,144 @@
+#title{
+  background-color: #ff4c68;
+}
+body{
+  font-family: "Montserrat-Black",sans-serif;
+
+}
+#h1 {
+    font-size: 3rem;
+    color: white;
+    line-height: 1.4;
+
+    padding: 4% 7%;
+}
+h2{
+  font-size: 3rem;
+  color: white;
+  line-height: 1.4;
+  font-family: "Montserrat-Bold",sans-serif;
+}
+em{
+  color: white;
+  line-height: 1.4;
+  font-family: "Montserrat-Bold",sans-serif;
+}
+.navbar-brand {
+  font-size: 2rem;
+  padding-bottom: 20px;
+}
+.nav-item{
+  padding:  0 18px;
+}
+.downbtn1 {
+  margin-left: 7%;
+
+}
+.downbtn2{
+  margin-left: 3%;
+}
+.phone {
+  transform: rotate(20  deg);
+}
+#features{
+  text-align: center;
+  padding: 7% 15%;
+}
+p {
+  color: #8f8f8f;
+  font-size: 1.6rem;
+}
+h3{
+  font-family: "Montserrat-Bold",sans-serif;
+  font-size: 2.5rem;
+  font-weight: bolder;
+
+}
+.fa-solid{
+  margin-bottom: 20px;
+  color: #ff4c68;
+}
+.fa-solid:hover{
+  color: #8b0000;
+}
+/* Testimonila*/
+#testimonials{
+  background-color: #ff4c68;
+  padding: 7% 15%;
+  text-align: center;
+}
+.testimg{
+  border-radius: 100%;
+  margin: 10px 20px;
+  width: 13%;
+}
+/*Press*/
+#press{
+  background-color: #ff4c68;
+  padding: 0 15% 3% 15%;
+  text-align: center;
+
+}
+.pressimg{
+  width: 20%;
+  margin : 10px 20px;
+}
+.price{
+  line-height: 1.4;
+  font-family: "Montserrat-Bold",sans-serif;
+  color: black;
+}
+#pricing{
+  padding: 100px;
+}
+.pricetext{
+  color: black;
+  font-weight: bolder;
+  font-family: "Montserrat-Bold",sans-serif;
+}
+.priceimg{
+  padding: 3% 2%;
+  text-align: center;
+
+}
+.card{
+  border-radius: 5%;
+}
+.card-header{
+  background-color: #ff4c68;
+}
+.size{
+  font-family: "Montserrat-Bold",sans-serif;
+  font-size: 2.5rem;
+  font-weight: bolder;
+  color: white;
+}
+.final-section{
+  background-color: #ff4c68;
+  padding: 5% 7%;
+  text-align: center;
+  line-height: 1.5 rem;
+  color: white;
+
+}
+.fn{
+    font-size: 3rem;
+    line-height: 1.5 rem;
+}
+.newbtn{
+  margin: 30px 5px;
+}
+#footer{
+  text-align: center;
+  padding: 4% 2%;
+
+}
+.new-icons{
+  color: black;
+  margin: 0 10px;
+
+}
+.trademark{
+  font-size: 10px;
+  margin-top: 10px;
+}
